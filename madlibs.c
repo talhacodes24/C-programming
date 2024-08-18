@@ -18,8 +18,9 @@ int main() {
 
     // print the poem
     printf("Rose are %s\n", color);
+
     printf("%s are blue\n",pluralNoun);
+    // my favourite person who loves me so much 
     printf("I love %s %s\n",celebrityfirstName, celebrityLastName);
-    
     return 0;
 }
