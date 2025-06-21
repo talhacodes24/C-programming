@@ -1,1 +1,5 @@
+# bro you run a mac, why exe?
 *.exe
+
+# ignore macOS
+.DS_Store
